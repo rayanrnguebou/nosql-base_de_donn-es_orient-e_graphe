@@ -337,7 +337,7 @@ nosql-dashboard/
 
 ## 👤 Auteur
 
-Projet réalisé dans le cadre du cours **NoSQL — Bases de données orientées graphe** (2024–2025).
+Projet réalisé par **Rayan NGUEBOU TEMGOUA** dans le cadre du cours **NoSQL — Bases de données orientées graphe** (2025–2026).
 
 ---
 
