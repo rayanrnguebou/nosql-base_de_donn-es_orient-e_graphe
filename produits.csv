@@ -1,0 +1,21 @@
+id,nom,prix,stock,categorie_id
+p1,Smartphone Samsung,250000,50,c1
+p2,Écouteurs Bluetooth,35000,120,c1
+p3,Roman africain,8000,200,c2
+p4,Laptop Lenovo,450000,30,c1
+p5,Livre de cuisine,12000,80,c2
+p6,Chaussures Nike,65000,90,c3
+p7,Tablette iPad,320000,40,c1
+p8,Chargeur rapide,15000,200,c1
+p9,Atlas de géographie,9500,60,c2
+p10,T-shirt Adidas,25000,150,c3
+p11,Café moulu 500g,5000,300,c4
+p12,Huile d'olive 1L,8500,180,c4
+p13,Vélo de route,350000,20,c5
+p14,Tapis de yoga,18000,100,c5
+p15,Gants de boxe,32000,60,c5
+p16,Robe traditionnelle,45000,70,c3
+p17,Dictionnaire français,7000,90,c2
+p18,Casque gaming,85000,55,c1
+p19,Riz basmati 5kg,12000,250,c4
+p20,Ballon de football,15000,130,c5
